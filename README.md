@@ -2,6 +2,13 @@
 抓取链家的数据
 
 
+环境:
+操作系统:macos
+scrapy版本:Scrapy 2.11.0
+python版本:Python 3.10.4
+
+
+
 1.遇到的坑   describe 加上``，不然写入一直报错describe是mysql关键字。
 2.item和pipeline的关系。
 3.抓取翻页的问题。
