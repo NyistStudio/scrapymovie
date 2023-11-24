@@ -13,6 +13,7 @@
 2. item和pipeline的关系。
 3. 抓取翻页的问题。
 4. 数据库表设计：
+5. 可以结合使用panda+Matplotlib做数据处理和可视化分析（下一步计划）。
 ```
 CREATE TABLE `movie`.`movie`  (
   `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT,
