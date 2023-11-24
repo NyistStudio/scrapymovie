@@ -13,7 +13,7 @@ python版本:Python 3.10.4
 2.item和pipeline的关系。
 3.抓取翻页的问题。
 
-数据库表设计：
+4. 数据库表设计：
 CREATE TABLE `movie`.`movie`  (
   `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT,
   `describe` varchar(255) CHARACTER SET gbk COLLATE gbk_bin NOT NULL,
